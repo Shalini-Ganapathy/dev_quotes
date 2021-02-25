@@ -1,0 +1,6 @@
+Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior. Its heart is a series of small behavior preserving transformations. Each transformation (called a 'refactoring') does little, but a sequence of transformations can produce a significant restructuring. Since each refactoring is small, it's less likely to go wrong. The system is also kept fully working after each small refactoring, reducing the chances that a system can get seriously broken during the restructuring.
+Martin Fowler at refactoring.com as cited in: Lawrence Bernstein, C. M. Yuhas (2005) Trustworthy Systems Through Quantitative Software Engineering. p. 266
+One of the things I've been trying to do is look for simpler or rules underpinning good or bad design. I think one of the most valuable rules is to avoid duplication. "Once and only once" is the Extreme Programming phrase.
+Martin Fowler as cited in: James Shore, Shane Warden (2007) The Art of Agile Development. p. 319
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+Martin Fowler (2012) Patterns of Enterprise Application Architecture
