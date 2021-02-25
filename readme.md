@@ -9,6 +9,8 @@ and Github in 2 hours!". See https://abhinary.com/gitting-started-gh for more
 details.
 
 All quotes are sourced from https://en.wikiquote.org
+
+#List of SD
 linus torvalds
 martin fowler
 alan kay
