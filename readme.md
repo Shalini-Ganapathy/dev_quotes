@@ -11,7 +11,7 @@ details.
 All quotes are sourced from https://en.wikiquote.org
 
 #List of SD
-linus torvalds
-martin fowler
-alan kay
+-linus torvalds
+-martin fowler
+-alan kay
 
